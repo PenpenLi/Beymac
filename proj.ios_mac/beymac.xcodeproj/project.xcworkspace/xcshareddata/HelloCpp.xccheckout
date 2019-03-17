@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4FB9BF8D-75D3-430C-B7D5-854D73E85724</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloCpp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5a2912f3-222e-3049-986b-f903df0d3138++6141</key>
+		<string>https://42.96.192.233/svn/project/CasualGame</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>3.Code/cocos2d-x-3.4/templates/cpp-template-default/proj.ios_mac/HelloCpp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5a2912f3-222e-3049-986b-f903df0d3138++6141</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5a2912f3-222e-3049-986b-f903df0d3138++6141</key>
+		<string>https://42.96.192.233/svn/project</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://42.96.192.233/svn/project/CasualGame/3.Code/cocos2d-x-3.4/templates/cpp-template-default/proj.ios_mac/HelloCpp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5a2912f3-222e-3049-986b-f903df0d3138++6141</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5a2912f3-222e-3049-986b-f903df0d3138++6141</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CasualGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes.dex : \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/BuildConfig.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/LoadActivity$1.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/LoadActivity.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/MainActivity.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/Payment$1.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/Payment.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/PaymentCallback.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/PaymentStrategy.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/strategy/MobilePay.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/strategy/TelecomPay.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/pay/strategy/UnicomPay.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/R$attr.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/R$drawable.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/R$layout.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/R$string.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/R.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/TencentShare$1.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/classes/cn/pingames/beymac/TencentShare.class \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/dexedLibs/classes-632f9e6f4ad2839f380b21551d13763a.jar \
+/Users/je/root/Beymac/3.Code/client/beymac/proj.android/bin/dexedLibs/open_sdk_r5043_lite-3e6feaeb4b8a7e6a2cb5012aecb17d5a.jar \

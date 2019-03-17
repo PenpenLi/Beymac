@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:22
+-keep class cn.pingames.beymac.LoadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class cn.pingames.beymac.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.qq.e.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.tencent.connect.common.AssistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.tencent.tauth.AuthActivity { <init>(...); }
+
